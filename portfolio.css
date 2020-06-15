@@ -2,6 +2,10 @@ body{
     text-align: center;
     background: linear-gradient( #4287f5 0%,#4bf542 100%);
 }
+html
+{
+    scroll-behaviour:smooth;
+}
 
 img{
   width:300;
